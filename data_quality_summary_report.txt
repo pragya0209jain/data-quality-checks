@@ -1,0 +1,16 @@
+
+--- Data Quality Summary Report ---
+
+Missing Values Summary:
+Product_Category_2    173638
+Product_Category_3    383247
+Total Duplicate Rows: 0
+
+Outlier Summary (using IQR method):
+User_ID: 0 outliers
+Occupation: 0 outliers
+Marital_Status: 0 outliers
+Product_Category_1: 4153 outliers
+Product_Category_2: 0 outliers
+Product_Category_3: 0 outliers
+Purchase: 2677 outliers
