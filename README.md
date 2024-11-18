@@ -11,7 +11,7 @@ This repository contains a Python script designed to perform basic data quality 
 
 ## Dataset
 
-The dataset is sourced directly from this repository on GitHub. The script is designed to fetch the dataset using its URL, ensuring ease of use and no dependency on local files.
+The dataset is sourced from Kaggle and is uploaded to the repository.
 
 ## Requirements
 
